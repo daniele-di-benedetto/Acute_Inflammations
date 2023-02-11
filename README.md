@@ -9,8 +9,7 @@ This project shows how to use machine learning models to perform the presumptive
 ---
 ## Content of the notebooks
 1. [Exploratory data analysis](https://github.com/daniele-di-benedetto/Acute_Inflammations/blob/main/01-exploratory_data_analysis.ipynb)
-2. [1° model training](https://github.com/daniele-di-benedetto/Acute_Inflammations/blob/main/02-train_model_d1.ipynb)
-3. [2° model training](https://github.com/daniele-di-benedetto/Acute_Inflammations_/blob/main/03-train_model_d2.ipynb)
+2. [Model training](https://github.com/daniele-di-benedetto/Acute_Inflammations/blob/main/02-train_model.ipynb)
 
 ---
 
